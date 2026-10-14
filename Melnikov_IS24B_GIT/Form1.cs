@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace Melnikov_IS24B_GIT
 {
-    public partial class Form1 : Form
+    public partial class PR07 : Form
     {
-        public Form1()
+        public PR07()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
