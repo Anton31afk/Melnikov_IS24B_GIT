@@ -26,5 +26,10 @@ namespace Melnikov_IS24B_GIT
         {
             MessageBox.Show(DateTime.Now.ToString("dd.MM.yyyy HH:mm:ss"), "Текущая дата и время");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Мельников Антон Антонович");
+        }
     }
 }
